@@ -1,0 +1,8 @@
+[1] npx create-react-app --template redux
+[2] create project in firebase and create a new database
+[3] register your app on firebase and install firebase tools npm i -g firebase-tools
+[4] delete some files - test.js, logo.svg header tag inside app.js, all contents of app.css
+[5] Install marerial ui and material-ui icons
+[6] Install firebase npm i firebase
+[7] Make a file named firebase.js and store the code snippet we get from firebase
+[8] change some code in store.js file inside app folder delete some files inside features folder and rename the file from counterSlice to userSlice.js
